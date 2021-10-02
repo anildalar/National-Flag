@@ -1,0 +1,22 @@
+Tecqnue
+
+1. BOX
+2. Gradient
+
+Rules
+1. Alway remove the parent height
+	when childrens get their height
+
+Blocking
+
+
+Gradient
+
+Vendor Prefix 
+background-color:-webkit-linear-gradient();
+
+Vendor/Company
+1. Google Chrome
+2. Mozilla Firefox
+3. Apple Safari
+4. Opera
